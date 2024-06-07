@@ -22,7 +22,7 @@ public class AboutMe {
         System.out.println("Tenho " + idade + " anos");
         System.out.println("Minha altura é " + altura + " cm");
        
-
+        scanner.close();
        /*String nome = args[0];
         String sobrenome = args[1]; 
         int idade = Integer.valueOf(args[2]);
